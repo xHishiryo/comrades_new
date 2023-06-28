@@ -1,2 +1,2 @@
-# comrades_new
+# new
 Comrades
